@@ -1,6 +1,6 @@
 {
     "name": "Swift",
-    "dockerFile": "Dockerfile",
+    "dockerFile": "http://index.docker.com/v2/repositories/paulbuis/swift-vscode-remote-container-docker",
 
     "runArgs": [
         "-u", "vscode",
